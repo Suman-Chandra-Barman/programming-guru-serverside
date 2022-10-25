@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Artificial Intelligence (AI)",
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "price": 109.95,
+    "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Mechin lerning",
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "price": 109.95,
+    "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "sybar sccuruty",
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "price": 109.95,
+    "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Robotic",
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "price": 109.95,
+    "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Ethical hacking",
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "price": 109.95,
+    "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "name": "Softwere developmetn",
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "price": 109.95,
+    "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": 4.8
+  }
+]
