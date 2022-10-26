@@ -5,28 +5,46 @@
     "title": "Introduction to Artificial Intelligence (AI)",
     "price": 109.95,
     "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "../images/ai.jpg",
-    "rating": 4.8
+    "image": "ai.jpg",
+    "rating": 4.8,
+    "skills": [
+      "Understand what is AI, its applications and use cases and how it is transforming our lives",
+      "Describe several issues and ethical concerns surrounding AI",
+      "pExplain terms like Machine Learning, Deep Learning and Neural Networks ",
+      "Articulate advice from experts about learning and starting a career in AI "
+    ]
   },
   {
     "id": 2,
     "name": "Machine Learning",
-    "title": "Introduction to Artificial Intelligence (AI)",
+    "title": "Machine Learning Crash Course",
     "price": 109.95,
-    "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "../images/mechine.jpg",
-    "rating": { "rate": 3.9, "count": 120 },
-    "author": "Sam Barman"
+    "description": "Machine Learning is a first-class ticket to the most exciting careers in data analysis today. As data sources proliferate along with the computing power to process them, going straight to the data is one of the most straightforward ways to quickly gain insights and make predictions.",
+    "image": "mechine.jpg",
+    "rating": { "rate": 4.9, "count": 120 },
+    "author": "Sam Barman",
+    "skills": [
+      "Understand what is AI, its applications and use cases and how it is transforming our lives",
+      "Describe several issues and ethical concerns surrounding AI",
+      "pExplain terms like Machine Learning, Deep Learning and Neural Networks ",
+      "Articulate advice from experts about learning and starting a career in AI "
+    ]
   },
   {
     "id": 3,
-    "name": "sybar sccuruty",
-    "title": "Introduction to Artificial Intelligence (AI)",
+    "name": "Cyber Security",
+    "title": "The Complete Cyber Security Course",
     "price": 109.95,
     "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "../images/cyber.jpg",
-    "rating": { "rate": 3.9, "count": 120 },
-    "author": "Sam Barman"
+    "image": "cyber.jpg",
+    "rating": { "rate": 4.9, "count": 120 },
+    "author": "Sam Barman",
+    "skills": [
+      "Understand what is AI, its applications and use cases and how it is transforming our lives",
+      "Describe several issues and ethical concerns surrounding AI",
+      "pExplain terms like Machine Learning, Deep Learning and Neural Networks ",
+      "Articulate advice from experts about learning and starting a career in AI "
+    ]
   },
   {
     "id": 4,
@@ -34,28 +52,45 @@
     "title": "Introduction to Artificial Intelligence (AI)",
     "price": 109.95,
     "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "../images/robotics.jpg",
-    "rating": { "rate": 3.9, "count": 120 },
-    "author": "Sam Barman"
+    "image": "robotics.jpg",
+    "rating": { "rate": 4.9, "count": 120 },
+    "author": "Sam Barman",
+    "skills": [
+      "Understand what is AI, its applications and use cases and how it is transforming our lives",
+      "Describe several issues and ethical concerns surrounding AI",
+      "pExplain terms like Machine Learning, Deep Learning and Neural Networks ",
+      "Articulate advice from experts about learning and starting a career in AI "
+    ]
   },
   {
     "id": 5,
     "name": "Ethical hacking",
-    "title": "Introduction to Artificial Intelligence (AI)",
+    "title": "Introduction To Ethical Hacking",
     "price": 109.95,
-    "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "../images/ethical.jpg",
-    "rating": { "rate": 3.9, "count": 120 },
-    "author": "Sam Barman"
+    "description": "Hacking is a neat skill to have. However, such a skill requires great responsibility. Learn about the responsibility an ethical hacker have in this introductory course to Ethical Hacking. In this course, you will get a peek into what it means to be an Ethical Hacker, practice hacking ethically, and learn the tools and techniques to be an efficient hacker.",
+    "image": "ethical.jpg",
+    "rating": { "rate": 4.9, "count": 120 },
+    "author": "Sam Barman",
+    "skills": [
+      "Hacking ethically",
+      "Analyzing and exploiting vulnerabilities on a website",
+      "Scanning networks with Nmap",
+      "Capturing network packets with PCAP"
+    ]
   },
   {
     "id": 6,
     "name": "Softwere developmetn",
     "title": "Introduction to Artificial Intelligence (AI)",
     "price": 109.95,
-    "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "../images/softwere.jpg",
-    "rating": { "rate": 3.9, "count": 120 },
-    "author": "Sam Barman"
+    "description": "Get an introduction to the programming skills needed for a career as a software developer. This learning path provides a broad perspective on core technologies for web development, software development, and databases. It introduces common tools and the bigger picture of how development careers work.",
+    "image": "softwere.jpg",
+    "rating": { "rate": 4.9, "count": 120 },
+    "author": "Sam Barman",
+    "skills": [
+      "Learn foundations of programming for software development.",
+      "Practice with popular technologies like HTML and CSS.",
+      "Explore core languages like Python, JavaScript, and Java."
+    ]
   }
 ]
