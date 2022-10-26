@@ -5,16 +5,16 @@
     "title": "Introduction to Artificial Intelligence (AI)",
     "price": 109.95,
     "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "image": "../images/ai.jpg",
     "rating": 4.8
   },
   {
     "id": 2,
-    "name": "Mechin lerning",
+    "name": "Machine Learning",
     "title": "Introduction to Artificial Intelligence (AI)",
     "price": 109.95,
     "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "image": "../images/mechine.jpg",
     "rating": { "rate": 3.9, "count": 120 },
     "author": "Sam Barman"
   },
@@ -24,7 +24,7 @@
     "title": "Introduction to Artificial Intelligence (AI)",
     "price": 109.95,
     "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "image": "../images/cyber.jpg",
     "rating": { "rate": 3.9, "count": 120 },
     "author": "Sam Barman"
   },
@@ -34,7 +34,7 @@
     "title": "Introduction to Artificial Intelligence (AI)",
     "price": 109.95,
     "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "image": "../images/robotics.jpg",
     "rating": { "rate": 3.9, "count": 120 },
     "author": "Sam Barman"
   },
@@ -44,7 +44,7 @@
     "title": "Introduction to Artificial Intelligence (AI)",
     "price": 109.95,
     "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "image": "../images/ethical.jpg",
     "rating": { "rate": 3.9, "count": 120 },
     "author": "Sam Barman"
   },
@@ -54,7 +54,7 @@
     "title": "Introduction to Artificial Intelligence (AI)",
     "price": 109.95,
     "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "image": "../images/softwere.jpg",
     "rating": { "rate": 3.9, "count": 120 },
     "author": "Sam Barman"
   }
